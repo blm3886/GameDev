@@ -5,11 +5,7 @@
 # Game Overview
 # Logline 
 2D Platformer Escape Room
-
-<video width="320" height="240" controls>
-  <source src="https://github.com/blm3886/GameDev/blob/main/Midterm%20Video%20(Week-9).mp4" type="video/mp4">
-</video>
-
+https://github.com/blm3886/GameDev/assets/97884167/ea844ac2-2a08-478d-838f-f15cf8565350
 # Short Description
 	-Each level is a room where the player tries to find a way out. 
  	-The game requires the player to think out of the box and use game elements to unlock keys or to overcome obstacles. 
