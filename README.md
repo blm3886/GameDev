@@ -4,6 +4,7 @@
 
 # Game Overview
 # Logline 
+Escape Room Platformer
 https://github.com/blm3886/GameDev/assets/97884167/fa58519e-edec-47c9-b581-927016596088
 
 
@@ -39,7 +40,13 @@ https://github.com/blm3886/GameDev/assets/97884167/fa58519e-edec-47c9-b581-92701
 <img src="https://github.com/blm3886/GameDev/blob/main/Screen%20Shot%202023-10-08%20at%207.03.22%20PM.png" width=40% height=50%> 
 <img src="https://github.com/blm3886/GameDev/blob/main/Screen%20Shot%202023-10-08%20at%207.03.58%20PM.png" width=40% height=50%> 
 
-
+# Game Analytics
+<img src="https://github.com/blm3886/GameDev/blob/main/Screen%20Shot%202023-10-08%20at%209.22.39%20PM.png" width=40% height=50%> 
+<img src="https://github.com/blm3886/GameDev/blob/main/Screen%20Shot%202023-10-08%20at%209.23.16%20PM.png" width=40% height=50%> 
+<img src="https://github.com/blm3886/GameDev/blob/main/Screen%20Shot%202023-10-08%20at%209.23.40%20PM.png" width=40% height=50%> 
+<img src="https://github.com/blm3886/GameDev/blob/main/Screen%20Shot%202023-10-08%20at%209.24.27%20PM.png" width=40% height=50%> 
+<img src="https://github.com/blm3886/GameDev/blob/main/Screen%20Shot%202023-10-08%20at%209.24.50%20PM.png" width=40% height=50%> 
+<img src="https://github.com/blm3886/GameDev/blob/main/Screen%20Shot%202023-10-08%20at%209.25.21%20PM.png" width=40% height=50%> 
 
 
 
